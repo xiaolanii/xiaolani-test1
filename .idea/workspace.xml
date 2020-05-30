@@ -12,6 +12,13 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
@@ -31,11 +38,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nodetest" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/xiaohong" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -106,26 +113,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="79" y="182" key="#Notifications" timestamp="1590803753156">
+    <state x="79" y="182" key="#Notifications" timestamp="1590821733120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="79" y="182" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1590803753156" />
+    <state x="79" y="182" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1590821733120" />
     <state x="79" y="182" key="#Project_Structure" timestamp="1590803706146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="79" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1590803706146" />
-    <state x="267" y="278" key="FileChooserDialogImpl" timestamp="1590803780680">
+    <state x="267" y="278" key="FileChooserDialogImpl" timestamp="1590821054950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="267" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590803780680" />
-    <state x="0" y="165" key="SettingsEditor" timestamp="1590803789185">
+    <state x="267" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590821054950" />
+    <state x="0" y="165" key="SettingsEditor" timestamp="1590821474748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590803789185" />
-    <state x="79" y="256" key="Vcs.Push.Dialog.v2" timestamp="1590805491898">
+    <state x="0" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590821474748" />
+    <state x="79" y="256" key="Vcs.Push.Dialog.v2" timestamp="1590821721223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="79" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590805491898" />
+    <state x="79" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590821721223" />
     <state x="279" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590805321669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
